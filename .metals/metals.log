@@ -1,0 +1,53 @@
+2026.05.20 12:56:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.20 12:56:51 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:56:51 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:56:51 WARN  no build tool detected in workspace 'C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.05.20 12:56:51 WARN  Build server is not auto-connectable.
+2026.05.20 12:56:51 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java
+2026.05.20 12:56:51 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:56:53 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-trabajo8/Hospital/PriorityQueue.java. Output:
+
+2026.05.20 12:56:53 INFO  time: code lens generation in 2.02s
+2026.05.20 12:56:53 INFO  time: code lens generation in 2.02s
+2026.05.20 12:56:55 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:56:55 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:56:55 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+may 20, 2026 12:56:55 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+may 20, 2026 12:56:55 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+may 20, 2026 12:56:55 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.05.20 12:56:55 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:56:56 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java
+2026.05.20 12:56:56 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-trabajo8/Hospital/Paciente.java. Output:
+
+2026.05.20 12:56:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:56:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:56:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:56:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:56:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:56:59 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-trabajo8/Hospital/Paciente.java. Output:
+
+2026.05.20 12:56:59 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java
+2026.05.20 12:57:02 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:57:02 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:57:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:57:04 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java
+2026.05.20 12:57:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:57:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:57:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:57:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:57:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:57:05 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java
+2026.05.20 12:57:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:57:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:57:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:57:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\Hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:57:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\hospital\Paciente.java. Using fallback presentation compiler.
+2026.05.20 12:57:20 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:57:20 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\hospital\PriorityQueue.java
+2026.05.20 12:57:20 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\hospital\PriorityQueue.java. Using fallback presentation compiler.
+2026.05.20 12:57:20 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-trabajo8\hospital\PriorityQueue.java. Using fallback presentation compiler.
+may 20, 2026 12:57:29 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
